@@ -71,6 +71,7 @@ The ASUS X299 Hackintosh repository contains OpenCore EFI distributions and rela
 
 ### System Report
 ![](/Images/aboutthismac.png)
+![](/Images/aboutthismac2.png)
 ![](Images/overview.png)
 
 ### Memory
