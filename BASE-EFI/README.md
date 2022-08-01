@@ -98,6 +98,16 @@ As of OpenCore 0.7.2, APFS drivers only load for macOS Big Sur and above.  The B
     * Once mapped make sure to remove `RestrictEvents.kext` under `Kernel-Add` and also delete the kext in your `Kexts` folder under `OC-Kexts`.
 
 # Changelog:
+## OpenCore 0.8.3 (2022.08.01)
+Bootloader / Kexts:
+* CpuTscSync 1.0.9
+* WhateverGreen 1.6.1
+* RestrictEvents 1.0.8
+* AppleALC 1.7.4
+* Lilu 1.6.2
+* VirtualSMC 1.3.0
+* NVMeFix 1.1.0
+
 ## OpenCore 0.8.1 (2022.06.08)
 Bootloader / Kexts:
 * CpuTscSync 1.0.8
